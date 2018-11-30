@@ -1,3 +1,3 @@
 # qingshanMiniProgram
 
-`hello world`
+`Qingshan's mini program.`
